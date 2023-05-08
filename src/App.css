@@ -2,39 +2,3 @@
   margin: 15px;
 
 }
-.App {
-  text-align: center;
-  padding: 4rem;
-  height: 70vh;
-  
-}
-body {
-  background-color: rgb(34, 32, 32);
-  color: white;
-  font-family: 'Courier New', Courier, monospace;
-}
-#imgp {
-  height: 300px;
-  display: flex;
-  width: 450px;
-  margin-left: 30%;
-  margin-top: 80px;
-}
-img {
-  margin: 0%;
-}
-p {
-  margin: 0%;
-}
-
-h1 {
-  width: 300px;
-  text-align: center;
-  margin-left: 35%;
-}
-
-h2 {
-  width: 300px;
-  text-align: center;
-  margin-left: 35%;
-}
